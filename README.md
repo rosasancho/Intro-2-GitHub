@@ -1,2 +1,2 @@
 # Intro-2-GitHub
-o meu primeiro repositorio
+o primeiro repositorio da Rosa
